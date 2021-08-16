@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A software developer trained to provide effective solutions and create excellent web experiences according to the requirements of a company, always open and interested in acquiring new skills and tools that allow me to improve the results of a project, I feel comfortable with team work, I have very good communication skills, as well as a work ethic, logical and decisive thinking, discipline and self-motivational.</h3>
 
-- 🔭 I’m currently working on **On The Rocks e-commerce**
+- 🔭 I’m currently working on <a href="https://on-the-rocks.vercel.app/" target="blank"> **On The Rocks e-commerce** <a/>
 
 - 🌱 I’m currently learning **TypeScript, Material UI, MongoDB**
 
