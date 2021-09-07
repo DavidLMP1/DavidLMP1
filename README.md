@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **david_melo10@yahoo.es**
   
-- 📑 Download my resume (cv) here -> <a href="https://github.com/DavidLMP1/DavidLMP1/files/7069209/CV.DavidLMP.pdf" target="blank"> **David CV** <a/>
+- 📑 Download my resume (cv) here -> <a href="https://github.com/DavidLMP1/DavidLMP1/files/7118788/CV.David.pdf" target="blank"> **David CV** <a/>
 
 
 <h3 align="left">Connect with me:</h3>
