@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A software developer trained to provide effective solutions and create excellent web experiences according to the requirements of a company, always open and interested in acquiring new skills and tools that allow me to improve the results of a project, I feel comfortable with team work, I have very good communication skills, as well as a work ethic, logical and decisive thinking, discipline and self-motivational.</h3>
 
-- 🔭 I’m currently working on <a href="https://on-the-rocks.vercel.app/" target="blank"> **On The Rocks e-commerce** <a/>
+- 🔭 My last proyect was <a href="https://on-the-rocks-orcin.vercel.app/" target="blank"> **On The Rocks e-commerce** <a/>
 
 - 🌱 I’m currently learning **TypeScript, Material UI, MongoDB**
 
@@ -25,7 +25,7 @@
 <h3>About my projects<h3>
   
 <h4>On The Rocks (e-commerce)<h4/>
-<a href="https://on-the-rocks.vercel.app/" target="blank"><img src="https://user-images.githubusercontent.com/82851461/131179503-e2a5a124-04ba-406a-80f5-03786ce887e9.png" alt="OnTheRocks(e-commerce)"/><a/>
+<a href="https://on-the-rocks-orcin.vercel.app/" target="blank"><img src="https://user-images.githubusercontent.com/82851461/131179503-e2a5a124-04ba-406a-80f5-03786ce887e9.png" alt="OnTheRocks(e-commerce)"/><a/>
   
 <h4>Movies App<h4/>
 <a href="https://moviesapp-david.netlify.app/" target="blank"><img src="https://user-images.githubusercontent.com/82851461/129097594-a29552c5-6451-4599-a825-fd27f690afa3.png" alt="MoviesApp"/><a/>
