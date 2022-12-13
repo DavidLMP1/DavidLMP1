@@ -3,11 +3,11 @@
 
 - 🔭 My last proyect was <a href="https://on-the-rocks-orcin.vercel.app/" target="blank"> **On The Rocks e-commerce** <a/>
 
-- 🌱 I’m currently learning **TypeScript, Material UI, MongoDB**
+- 🌱 I’m currently learning **TypeScript, Graphql**
 
-- 💬 Ask me about **React-Redux,JavaScript,NodeJs,CSS,HTML**
+- 💬 Ask me about **React-Redux, NextJs, NestJs, Express,JavaScript,NodeJs,CSS,HTML**
 
-- 📫 How to reach me **david_melo10@yahoo.es** 
+- 📫 How to reach me **davidlmelop@gmail.com** 
   
 - 📑 Download my resume (cv) here -> <a href="https://github.com/DavidLMP1/DavidLMP1/files/7621248/CV.David.pdf" target="blank"> **David CV** <a/>
 
