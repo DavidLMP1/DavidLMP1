@@ -23,10 +23,10 @@
 
 <h3>About my projects<h3>
   
-<h4>On The Rocks (e-commerce)<h4/>
+<h4>On The Rocks (e-commerce, write david in the chatbot)<h4/>
 <a href="https://on-the-rocks-orcin.vercel.app/" target="blank"><img src="https://user-images.githubusercontent.com/82851461/131179503-e2a5a124-04ba-406a-80f5-03786ce887e9.png" alt="OnTheRocks(e-commerce)"/><a/>
   
-<h4>Movies App<h4/>
+<h4>Movies App (Desktop only, it was my first application, it is not responsive, don't judge me.)<h4/>
 <a href="https://moviesapp-david.netlify.app/" target="blank"><img src="https://user-images.githubusercontent.com/82851461/129097594-a29552c5-6451-4599-a825-fd27f690afa3.png" alt="MoviesApp"/><a/>
   
 <h4>Countries App<h4/>
