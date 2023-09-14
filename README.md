@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi, I'm David</h1>
 <h3 align="center">A software developer trained to provide effective solutions and create excellent web experiences according to the requirements of a company, always open and interested in acquiring new skills and tools that allow me to improve the results of a project, I feel comfortable with team work, I have very good communication skills, as well as a work ethic, logical and decisive thinking, discipline and self-motivational.</h3>
 
 - 🔭 My last proyect was <a href="https://search-engine.doctorhoy.com/" target="blank"> **DoctorHoy Search Engine** <a/>
@@ -8,6 +8,8 @@
 - 💬 Ask me about **React-Redux, NextJs, NestJs, Express,JavaScript,NodeJs,CSS,HTML**
 
 - 📫 How to reach me **davidlmelop@gmail.com** 
+
+- 📫 I currently work with gitlab <a href="https://gitlab.com/DavidMeloPenagos" target="blank"> **Gitlab** <a/>
   
 - 📑 Download my resume (cv) here -> <a href="https://github.com/DavidLMP1/DavidLMP1/files/12611246/CV.David.2023.pdf" target="blank"> **David CV** <a/>
 
