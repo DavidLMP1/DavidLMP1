@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Graphql**
 
-- 💬 Ask me about **React-Redux, NextJs, NestJs, Express,JavaScript,NodeJs,CSS,HTML**
+- 💬 Ask me about **React, NextJs, NestJs, Express, JavaScript, NodeJs, CSS, HTML**
 
 - 📫 How to reach me **davidlmelop@gmail.com** 
 
@@ -31,6 +31,3 @@
   
 <h4>On The Rocks (e-commerce, write david in the chatbot)<h4/>
 <a href="https://on-the-rocks-orcin.vercel.app/" target="blank"><img src="https://user-images.githubusercontent.com/82851461/131179503-e2a5a124-04ba-406a-80f5-03786ce887e9.png" alt="OnTheRocks(e-commerce)"/><a/>
-  
-<h4>Countries App (Repo)<h4/>
-<a href="https://github.com/DavidLMP1/PI-Countries-FT14A" target="blank"><img src="https://user-images.githubusercontent.com/82851461/129393612-4e43480a-6c58-4f1b-be85-908be3e128b8.png" alt="CountriesApp"/><a/>
